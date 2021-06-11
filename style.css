@@ -1,0 +1,155 @@
+@import url("https://fonts.googleapis.com/css2?family=Spartan&display=swap");
+body {
+  margin: 0;
+  overflow: hidden;
+}
+.logo {
+  position: absolute;
+  margin-top: 50px;
+  margin-left: -740px;
+}
+.main-background {
+  width: 800px;
+  height: 430px;
+}
+.main-background1 {
+  display: none;
+}
+.main-background2 {
+  display: none;
+}
+.nav {
+  position: absolute;
+  margin-left: 160px;
+  margin-top: -387px;
+}
+.home {
+  font-family: "Spartan";
+  width: 50px;
+  font-weight: 600;
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  color: #ffffff;
+  margin-right: 10px;
+}
+.contact {
+  font-family: "Spartan";
+  width: 60px;
+  font-weight: 600;
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  color: #ffffff;
+}
+.home:hover {
+  text-decoration: underline;
+  text-decoration-color: #ffffff;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 8px;
+}
+.contact:hover {
+  text-decoration: underline;
+  text-decoration-color: #ffffff;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 8px;
+}
+.side-description {
+  display: block;
+  float: right;
+  width: 410px;
+  margin-top: -390px;
+  margin-right: 70px;
+}
+.side-description1 {
+  display: none;
+  float: right;
+  width: 410px;
+  margin-top: -390px;
+  margin-right: 70px;
+}
+.side-description2 {
+  display: none;
+  float: right;
+  width: 410px;
+  margin-top: -390px;
+  margin-right: 70px;
+}
+.header {
+  font-family: "Spartan";
+  font-weight: bolder;
+  font-size: 30px;
+}
+.para {
+  font-family: "Spartan";
+  font-size: 12px;
+  color: #a1a1a1;
+  line-height: 20px;
+}
+.shop-now {
+  font-family: "Spartan";
+  letter-spacing: 8px;
+  word-spacing: 8px;
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-left: -5px;
+}
+.arrow {
+  margin-left: 20px;
+}
+.shop-now:hover {
+  color: rgb(135, 134, 136);
+}
+.left-angle {
+  position: absolute;
+  margin-top: -330px;
+  padding: 20px 25px;
+  background-color: #000;
+  margin-left: 792px;
+  cursor: pointer;
+}
+.right-angle {
+  position: absolute;
+  margin-top: -330px;
+  padding: 20px 25px;
+  background-color: rgb(0, 0, 0);
+  margin-left: 830px;
+  cursor: pointer;
+}
+.left-angle:hover {
+  background-color: #454545;
+}
+.right-angle:hover {
+  background-color: #454545;
+}
+.image-dark {
+  position: relative;
+  margin-left: -40px;
+  margin-top: -4px;
+}
+.bottom-header {
+  width: 410px;
+  margin-left: 470px;
+  margin-top: -250px;
+}
+.header-2 {
+  font-family: "Spartan";
+  font-weight: bolder;
+  font-size: 30px;
+}
+.para-2 {
+  font-family: "Spartan";
+  font-size: 12px;
+  color: #a1a1a1;
+  line-height: 20px;
+}
+.image-light {
+  float: right;
+  margin-top: -228px;
+  margin-right: 3px;
+}
